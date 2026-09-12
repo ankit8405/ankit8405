@@ -40,7 +40,7 @@ I build  **AI-powered applications**, and **real-time platforms**. Currently foc
 
 | Project | Description | Stack |
 |---|---|---|
-| [**AI-News-Aggregator**](https://github.com/ankit8405/ai-news-aggregrator) | AI News Aggregator Application | Python, PostgreSQL, SQLAlchemy, Streamlit, OpenAI, Docker, Gmail SMTP, Render
+| [**AI-News-Aggregator**](https://github.com/ankit8405/ai-news-aggregrator) | AI News Aggregator Application | Python, PostgreSQL, SQLAlchemy, OpenAI, Docker, Gmail SMTP, Render
 | [**ResearchConclave**](https://github.com/ankit8405/multi-agent-resource-system) |  Multi-agent AI Research Application | Python, LangChain, OpenAI, Tavily, BeautifulSoup, Streamlit, AWS EC2 |
 | [**Cricket-Chatbot**](https://github.com/ankit8405/cricket-chatbot) | Cricket Chatbot Application | Python, FastAPI, LangChain, LangGraph, SQLite, OpenAI, Tavily, Exa, Docker, Redis |
 
