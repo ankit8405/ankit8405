@@ -39,8 +39,6 @@ I build  **AI-powered applications**, and **real-time platforms**. Currently foc
 
 ## 🚀 Featured Projects
 
-### 🤖 AI & Machine Learning
-
 | Project | Description | Stack |
 |---|---|---|
 | [**AI-News-Aggregator**](https://github.com/ankit8405/ai-news-aggregrator) | AI News Aggregator Application | Python, PostgreSQL, SQLAlchemy, Streamlit, OpenAI, Docker, Gmail SMTP, Render
