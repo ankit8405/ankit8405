@@ -32,7 +32,6 @@ I build  **AI-powered applications**, and **real-time platforms**. Currently foc
 | **Data Science & ML** | Scikit-Learn, Pandas, NumPy, SciPy, Matplotlib, Seaborn |
 | **Backend & Development** | FastAPI, Flutter, React, Streamlit, Docker, AWS (EC2) |
 | **Databases & Tools** | PostgreSQL, , SQLAlchemy, Git, GitHub, Postman, Redis |
-| **Tools** | Git, GitHub Actions, Linux, Postman |
 | **Libraries & APIs** | OpenAI, Tavily, BeautifulSoup |
 
 ---
