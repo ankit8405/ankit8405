@@ -4,7 +4,7 @@
 
 **AI Engineer**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-https://ankitx.dev/-8B4513?style=flat-square)](https://ankitx.dev/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-https://ankitx.dev/-8B4513?style=flat-square)](ankitx.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ankit%20Sahoo-0077B5?style=flat-square)](https://www.linkedin.com/in/ankit-s05)
 [![Twitter](https://img.shields.io/badge/Twitter-@ankit08044-1DA1F2?style=flat-square)](https://x.com/ankit08044)
 [![Email](https://img.shields.io/badge/Email-ankit08044@gmail.com-EA4335?style=flat-square)](mailto:ankit08044@gmail.com)
