@@ -1,16 +1,71 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ankit8405/ankit8405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Ankit Kumar Sahoo
 
-Here are some ideas to get you started:
+**AI Engineer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Portfolio](https://img.shields.io/badge/Portfolio-https://ankitx.dev/-8B4513?style=flat-square)](https://ankitx.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ankit%20Sahoo-0077B5?style=flat-square)](https://www.linkedin.com/in/ankit-s05)
+[![Twitter](https://img.shields.io/badge/Twitter-@ankit08044-1DA1F2?style=flat-square)](https://x.com/ankit08044)
+[![Email](https://img.shields.io/badge/Email-ankit08044@gmail.com-EA4335?style=flat-square)](mailto:ankit08044@gmail.com)
+
+</div>
+
+---
+
+## 🤓 About Me
+Aspiring **AI engineer** focused on building **AI-powered applications** with LangChain, LangGraph & LLMs. With a strong foundation in Python, I enjoy developing user-focused, scalable & impactful solutions that address real-world problems through clean and efficient code.
+I build  **AI-powered applications**, and **real-time platforms**. Currently focused on Agentic AI, LLMs, and RAG applications.
+
+- 🔭 **Open to:** Full-time SDE/AI roles, internships, and freelance projects
+- 💬 **Ask me about:** LangChain, LangGraph, RAG, FastAPI, Flutter
+- 📍 Based in India
+
+---
+
+## 🛠️ Tech Stack
+
+| Category | Technologies |
+|---|---:|
+| **Languages** | Python, Dart, SQL |
+| **GenAI** | LangChain, LangGraph, LangSmith, RAG, Multi-Agent Systems, Vector Search |
+| **Data Science & ML** | Scikit-Learn, Pandas, NumPy, SciPy, Matplotlib, Seaborn |
+| **Backend & Development** | FastAPI, Flutter, React, Streamlit, Docker, AWS (EC2) |
+| **Databases & Tools** | PostgreSQL, , SQLAlchemy, Git, GitHub, Postman, Redis |
+| **Tools** | Git, GitHub Actions, Linux, Postman |
+| **Libraries & APIs** | OpenAI, Tavily, BeautifulSoup |
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 AI & Machine Learning
+
+| Project | Description | Stack |
+|---|---|---|
+| [**AI-News-Aggregator**](https://github.com/ankit8405/ai-news-aggregrator) | AI News Aggregator Application | Python, PostgreSQL, SQLAlchemy, Streamlit, OpenAI, Docker, Gmail SMTP, Render
+| [**ResearchConclave**](https://github.com/ankit8405/multi-agent-resource-system) |  Multi-agent AI Research Application | Python, LangChain, OpenAI, Tavily, BeautifulSoup, Streamlit, AWS EC2 |
+| [**Cricket-Chatbot**](https://github.com/ankit8405/cricket-chatbot) | Cricket Chatbot Application | Python, FastAPI, LangChain, LangGraph, SQLite, OpenAI, Tavily, Exa, Docker, Redis |
+
+---
+
+## 🏢 Experience
+
+**Summer Intern** @ Happiest Minds Technologies
+- Developed an AutoML pipeline featuring dataset detection, data validation, and quality reporting
+- Integrated a YOLOv8-based annotation pipeline
+- Implemented a configurable AutoGluon training pipeline
+
+**Summer Intern** @ Hindustan Aeronautics Limited
+- Developed a secure Digital Rights Management (DRM) desktop application
+- Implemented end-to-end cryptography with AES-256-CFB encryption, SHA256 key derivation, and two-factor password authentication
+- Enabled time-bound access with silent expiry and MAC address-based device binding
+
+---
+
+
+<div align="center">
+
+*"Build. Deploy. Scale. Improve. One line of code at a time"*
+
+</div>
