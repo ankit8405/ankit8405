@@ -21,6 +21,8 @@ I build  **AI-powered applications**, and **real-time platforms**. Currently foc
 - 💬 **Ask me about:** LangChain, LangGraph, RAG, FastAPI, Flutter
 - 📍 Based in India
 
+[Resume](https://drive.google.com/file/d/1JoTyvzZYVZVBaPFwz2HOdPbvinxwitFR/view?usp=sharing)
+
 ---
 
 ## 🛠️ Tech Stack
