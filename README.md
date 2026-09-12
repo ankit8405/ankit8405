@@ -17,7 +17,7 @@
 Aspiring **AI engineer** focused on building **AI-powered applications** with LangChain, LangGraph & LLMs. With a strong foundation in Python, I enjoy developing user-focused, scalable & impactful solutions that address real-world problems through clean and efficient code.
 I build  **AI-powered applications**, and **real-time platforms**. Currently focused on Agentic AI, LLMs, and RAG applications.
 
-- 🔭 **Open to:** Full-time SDE/AI roles, internships, and freelance projects
+- 💼 **Open to:** Full-time SDE/AI roles, internships, and freelance projects
 - 💬 **Ask me about:** LangChain, LangGraph, RAG, FastAPI, Flutter
 - 📍 Based in India
 
@@ -37,7 +37,7 @@ I build  **AI-powered applications**, and **real-time platforms**. Currently foc
 
 ---
 
-## 🚀 Featured Projects
+## 💻 Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
