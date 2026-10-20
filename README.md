@@ -28,7 +28,7 @@ I build  **AI-powered applications**, and **real-time platforms**. Currently foc
 | Category | Technologies |
 |---|---:|
 | **Languages** | Python, Dart, SQL |
-| **GenAI** | LangChain, LangGraph, LangSmith, RAG, LLMs, LLM Guardrails, Multi-Agent Systems, Vector Search |
+| **GenAI** | LangChain, LangGraph, LangSmith, AI Agents, RAG, LLMs, LLM Guardrails |
 | **Backend & Development** | FastAPI, Flutter, React, Streamlit, Docker, AWS |
 | **Data Science & ML** | TensorFlow, Keras, Scikit-Learn, Pandas, NumPy, SciPy, Matplotlib, Seaborn |
 | **Databases & Data Access** | PostgreSQL, SQLAlchemy, Redis |
