@@ -2,7 +2,7 @@
 
 # Ankit Kumar Sahoo
 
-**AI Engineer**
+**Software | AI Engineer**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ankitx.dev-8B4513?style=flat-square)](https://ankitx.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ankit%20Sahoo-0077B5?style=flat-square)](https://www.linkedin.com/in/ankit-s05)
